@@ -49,3 +49,5 @@ target/
 
 # Ignore local logs
 *.log
+
+src/main/resources/application.properties
